@@ -1,0 +1,18 @@
+{
+	"port": "/dev/ttyS0",
+	"sensor_names": {},
+	"databases_path": "db",
+	"graphs_path": "graphs",
+	"graphs": [
+		"-1year",
+		"-6months",
+		"-1month",
+		"-7days",
+		"-1days",
+		"-12hours",
+		"-6hours",
+		"-3hours",
+		"-1hour",
+		"-30minutes"
+	]
+}
